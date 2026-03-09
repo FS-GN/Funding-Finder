@@ -1,7 +1,7 @@
 # Funding-Finder
 An interactive tool for finding fisheries, harvesting, and economic development funding programs available in Nunavut.
 
-**86 programs** across federal, territorial, regional, and community sources.
+**94 programs** across federal, territorial, regional, and community sources.
 
 ## How to Use
 
